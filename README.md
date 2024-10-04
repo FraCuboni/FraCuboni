@@ -8,11 +8,12 @@
 
 - 🌱 I’m currently learning **React**.
 
+- ⚡ Fun fact You can find easter eggs in my codes, because why not!
+
 🔧 I have experience in:
 - **JavaScript & Vue**
 - **Laravel**
 
-- ⚡ Fun fact You can find easter eggs in my codes, because why not!
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
 
