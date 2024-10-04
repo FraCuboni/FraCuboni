@@ -2,7 +2,7 @@
 
 <h4 align='center'>As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun!</h4>
 
-<div align='center'>
+<div style='width:80%;'>
 🌱 I’m currently learning **React**.
 
 💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
