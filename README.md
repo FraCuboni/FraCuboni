@@ -20,6 +20,6 @@
 📫 How to reach me: fracuboni@gmail.com
 
 🚀 Check out my latest projects below!
-- [Progetto 1](link-al-tuo-progetto)
+- [Laravel_api]((https://github.com/FraCuboni/laravel-api))
   
 - [Progetto 2](link-al-tuo-progetto)
