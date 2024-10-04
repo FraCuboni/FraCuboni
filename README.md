@@ -22,4 +22,4 @@
 🚀 Check out my latest projects below!
 - [Laravel_api](https://github.com/FraCuboni/laravel-api)
   
-- [DogMilo]((https://github.com/FraCuboni/proj-html-vuejs)
+- [DogMilo](https://github.com/FraCuboni/proj-html-vuejs)
