@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi, I’m Francesco!
 
-<!--
-**FraCuboni/FraCuboni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning **React**.
 
-Here are some ideas to get you started:
+💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 I have experience in:
+- **JavaScript & Vue**
+- **Laravel**
+
+- ⚡ Fun fact You can find easter eggs in my codes, because why not!
+
+🌍 I'm interested in open source contributions and collaborating on innovative projects.
+
+📫 How to reach me: fracuboni@gmail.com
+
+🚀 Check out my latest projects below!
+- [Progetto 1](link-al-tuo-progetto)
+- [Progetto 2](link-al-tuo-progetto)
