@@ -1,4 +1,4 @@
-👋 Hi, I’m Francesco!
+<h1 align='center'>👋 Hi, I’m Francesco!</h1>
 
 🌱 I’m currently learning **React**.
 
