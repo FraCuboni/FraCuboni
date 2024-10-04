@@ -3,9 +3,9 @@
 <h4 align='center'>As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun!</h4>
 
 <div>
-   🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **React**.
 
-   💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
+- 💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
 
 🔧 I have experience in:
 - **JavaScript & Vue**
