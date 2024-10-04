@@ -18,7 +18,9 @@
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
 
-📫 How to reach me: fracuboni@gmail.com
+📫 How to reach me: 
+- 💬fracuboni@gmail.com
+- [✉️](https://t.me/SuRe20)
 
 🚀 Check out my latest projects below!
 - [Laravel_api](https://github.com/FraCuboni/laravel-api)
