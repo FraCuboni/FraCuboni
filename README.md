@@ -1,7 +1,9 @@
 <h1 align='center'>👋 Hi, I’m Francesco!</h1>
 
 <h4 align='center'>As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun!</h4>
-
+<br>
+<br>
+<br>
 <div>
 
 - 💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
