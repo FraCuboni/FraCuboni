@@ -12,7 +12,8 @@
 
 🔧 I have experience in:
 - **JavaScript & Vue**
-- **Laravel**
+  
+- **PHP & Laravel**
 
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
