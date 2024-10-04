@@ -20,7 +20,7 @@
 
 📫 How to reach me: 
 - 💬fracuboni@gmail.com
-- [✉️telegram](https://t.me/SuRe20)
+- ✉️[telegram](https://t.me/SuRe20)
 
 🚀 Check out my latest projects below!
 - [Laravel_api](https://github.com/FraCuboni/laravel-api)
