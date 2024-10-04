@@ -1,6 +1,6 @@
 <h1 align='center'>👋 Hi, I’m Francesco!</h1>
 
-<h3 align='center'>"As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun."</h3>
+<h3 align='center'>As a technology lover and an ever-evolving developer, this is where I share my projects, ideas, and a bit of coding fun.</h3>
 🌱 I’m currently learning **React**.
 
 💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
