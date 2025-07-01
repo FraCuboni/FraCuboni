@@ -15,6 +15,8 @@
   
 - **PHP & Laravel**
 
+- **Bootstrap**
+
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
 
