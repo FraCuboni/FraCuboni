@@ -6,7 +6,7 @@
 
 💻 I’m a **Junior Full Stack Developer** with a passion for **creating beautiful and responsive web applications**.
 
-🌱 I’m currently learning **Tailwindcss**.
+🌱 I’m currently learning **React**.
 
 ⚡ Fun fact You can find easter eggs in my codes, because why not!
 
@@ -15,7 +15,7 @@
   
 - **PHP & Laravel**
 
-- **Bootstrap**
+- **Bootstrap & Tailwindcss**
 
 
 🌍 I'm interested in open source contributions and collaborating on innovative projects.
