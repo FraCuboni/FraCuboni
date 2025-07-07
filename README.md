@@ -14,6 +14,8 @@
 - **JavaScript & Vue**
   
 - **PHP & Laravel**
+- 
+- **SQL**
 
 - **Bootstrap & Tailwindcss**
 
